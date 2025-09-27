@@ -5,7 +5,6 @@ export default function App() {
   return <SynthLab />;
 }
 
-// - test comment
 // SynthLab: low-latency Web Audio + Web MIDI playground
 // - Uses AudioWorklet for reliable scheduling and minimal jitter
 // - Polyphonic (8 voices), ADSR, basic waveforms, low-pass filter
